@@ -47,7 +47,7 @@ Logicook M170のスイッチはアクティブロー(GNDに落とすとオン)�
 # 写真集
 
 ![box1](./images/box1.jpg)
-![box2](./images/box1.jpg)
+![box2](./images/box2.jpg)
 ![board1](./images/board1.jpg)
 ![board2](./images/board2.jpg)
 ![board3](./images/board3.jpg)
