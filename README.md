@@ -34,8 +34,12 @@ Sleeve(GND) | GND
 
 # 主要構成部品
 
-* [ATMEL(microchip) ATTiny13A](http://akizukidenshi.com/catalog/g/gI-02911/)
-* [傾斜スイッチ AT-407](http://akizukidenshi.com/catalog/g/gP-02349/)
+傾斜スイッチ AT-407は外付け部品で付属していません。
+
+* [ATTiny13A](http://akizukidenshi.com/catalog/g/gI-02911/)
+* [2N7002K](http://akizukidenshi.com/catalog/g/gI-04256/)
+* [1S4](http://akizukidenshi.com/catalog/g/gI-00127/)
+* [AT-407](http://akizukidenshi.com/catalog/g/gP-02349/)
 * Logicool M170
 
 Logicook M170のスイッチはアクティブロー(GNDに落とすとオン)になっています。同じアクティブローなら別のマウスでもこのソースと回路が使用出来ると思います。電源は1.8Vレギュレータにショットキーバリアダイオード1S4を経由して接続して1.6Vくらいにしています。負荷ですこし変動します。1.5Vより若干高いですがおそらく大丈夫でしょう。
